@@ -73,10 +73,11 @@ Schoolvery
 
 **Emotion**
 <br />
-<img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" alt="Emotion logo" height="50" width="50" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" alt="Emotion logo" height="50" width="50" style="max-width: 100%;"> <br />
 **Recoil**
 <br />
 <img src="https://user-images.githubusercontent.com/54137044/184468356-2f0a1d08-2aa1-4128-984b-a8ce8244bf50.svg" alt="Recoil logo" height="50" width="50" style="max-width: 100%;">
+<br />
 
 Vite를 사용하여 빠른 빌드를 목적으로 하고, <br />
 React를 사용하여 사용자와의 상호작용을 하는 앱화면을 효율적으로 구성하고, <br />
