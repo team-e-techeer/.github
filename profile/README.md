@@ -58,8 +58,7 @@ Schoolvery
 <div style="display: flex; align-items: flex-start;">
     <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="icon" />
     <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white" alt="icon" />
-    <img src="https://img.shields.io/badge/React Router
--CA4245?style=for-the-badge&logo=ReactRouter
+    <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=ReactRouter
 &logoColor=white" alt="icon" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white" alt="icon" />
     <img src="https://img.shields.io/badge/Testing Library-E33332?style=for-the-badge&logo=Testing Library&logoColor=white" alt="icon" />
