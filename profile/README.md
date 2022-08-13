@@ -43,6 +43,9 @@ Schoolvery
 
 ## System Architecture
 
+![Schoolvery_TechStack drawio (3)](https://user-images.githubusercontent.com/76832303/184498895-ae076c1d-bb8d-4029-afca-10fbfb14a4be.png)
+
+
 <br/>
 
 ## Tech Stack
