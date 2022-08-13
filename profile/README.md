@@ -194,6 +194,10 @@ AdminMailId =
 AdminMailPassword =
 
 slack_api =
+
+accessKey =
+secretKey =
+static =
 ```
 
 > jar 파일을 생성해준다.
