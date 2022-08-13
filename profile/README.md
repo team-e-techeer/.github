@@ -72,8 +72,10 @@ Schoolvery
 </div>
 
 **Emotion**
+<br />
 <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" alt="Emotion logo" height="50" width="50" style="max-width: 100%;">
 **Recoil**
+<br />
 <img src="https://user-images.githubusercontent.com/54137044/184468356-2f0a1d08-2aa1-4128-984b-a8ce8244bf50.svg" alt="Recoil logo" height="50" width="50" style="max-width: 100%;">
 
 Vite를 사용하여 빠른 빌드를 목적으로 하고, <br />
