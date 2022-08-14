@@ -140,6 +140,7 @@ Swagger로 API 문서를 작성하여 클라이언트와 소통하였습니다. 
 - **AWS EC2**
 - **Prometheus, Grafana**
 - **AWS Route 53**
+- **AWS S3 bucket**
 
 Docker로 동일한 백엔드 환경을 구축하고, <br/>
 AWS EC2 인스턴스(Ubuntu, t3a.medium)에 서버를 배포하였습니다. <br/>
