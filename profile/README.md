@@ -39,15 +39,7 @@ Schoolvery
 
 
 
-#### c. Demo
 
-- Main Page
-
-- Posting Page
-
-- Chat Page
-
-- User Page
 
 <br/>
 
