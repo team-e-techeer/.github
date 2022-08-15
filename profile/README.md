@@ -15,28 +15,46 @@ Schoolvery
 
 </br>
 
-## Feature
+## Demo
+|                   회원가입 및 로그인                |                   게시물 생성                  |                         메인 페이지 및 검색 상세 페이지                      |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/76704035/184582290-b1d7d37a-17e0-4d19-847e-8ee2f757d61e.gif" alt="회원가입 및 로그인" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582333-fb63f105-0fd7-4a85-9741-27c0237a7da5.gif" alt="게시글 생성" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582403-4dacf6a1-605c-4ab2-8d40-b737a5e446eb.gif" alt="메인 페이지" width=70%> |
 
-### 회원가입 및 로그인
+|                         카테고리 검색                    |                     채팅 보내기                        |                         마이페이지                        |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/76704035/184586578-acb4e055-85ab-4961-bd4f-2876174f4f46.gif" alt="카테고리 검색" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582449-53ccc75f-c4cc-4418-8fad-4ac716828924.gif" alt="채팅 페이지" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif" alt="마이페이지" width=70%> |
 
-![회원가입](https://user-images.githubusercontent.com/76704035/184582290-b1d7d37a-17e0-4d19-847e-8ee2f757d61e.gif)
 
-### 게시물 생성 
 
-![게시물 생성](https://user-images.githubusercontent.com/76704035/184582333-fb63f105-0fd7-4a85-9741-27c0237a7da5.gif)
 
-### 메인 페이지 
+<!-- ### 회원가입 및 로그인 -->
 
-![검색](https://user-images.githubusercontent.com/76704035/184582403-4dacf6a1-605c-4ab2-8d40-b737a5e446eb.gif)
+<!-- <img src="https://user-images.githubusercontent.com/76704035/184582290-b1d7d37a-17e0-4d19-847e-8ee2f757d61e.gif" width="240" height="500"/> -->
 
-### 채팅 보내기 
+<!-- ![회원가입](https://user-images.githubusercontent.com/76704035/184582290-b1d7d37a-17e0-4d19-847e-8ee2f757d61e.gif) -->
 
-![채팅보내기](https://user-images.githubusercontent.com/76704035/184582449-53ccc75f-c4cc-4418-8fad-4ac716828924.gif)
+<!-- ### 게시물 생성  -->
 
-### 마이페이지
+<!-- <img src="https://user-images.githubusercontent.com/76704035/184582333-fb63f105-0fd7-4a85-9741-27c0237a7da5.gif" width="240" height="500"/> -->
 
-![내정보페이지](https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif)
+<!-- ![게시물 생성](https://user-images.githubusercontent.com/76704035/184582333-fb63f105-0fd7-4a85-9741-27c0237a7da5.gif) -->
 
+<!-- ### 메인 페이지  -->
+
+<!-- <img src="https://user-images.githubusercontent.com/76704035/184582403-4dacf6a1-605c-4ab2-8d40-b737a5e446eb.gif" width="240" height="500"/> -->
+<!-- ![검색](https://user-images.githubusercontent.com/76704035/184582403-4dacf6a1-605c-4ab2-8d40-b737a5e446eb.gif) -->
+
+<!-- ### 채팅 보내기  -->
+
+<!-- <img src="https://user-images.githubusercontent.com/76704035/184582449-53ccc75f-c4cc-4418-8fad-4ac716828924.gif" width="240" height="500"/> -->
+<!-- ![채팅보내기](https://user-images.githubusercontent.com/76704035/184582449-53ccc75f-c4cc-4418-8fad-4ac716828924.gif) -->
+
+<!-- ### 마이페이지 -->
+
+<!-- <img src="https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif" width="240" height="500"/> -->
+<!-- ![내정보페이지](https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif) -->
+
+![카테고리](https://user-images.githubusercontent.com/76704035/184586578-acb4e055-85ab-4961-bd4f-2876174f4f46.gif)
 
 
 
