@@ -17,31 +17,23 @@ Schoolvery
 
 ## Feature
 
-#### a. PoC
-
-- 사용자 A가 모집 게시글을 등록한다.
-- 사용자 B가 A가 올린 모집 게시글에 참여한다.
-- 사용자 A와 B는 채팅방 안에서 메세지를 보내며 소통한다.
-
-#### b. Additional Features
-
-- 회원가입 및 로그인
+### 회원가입 및 로그인
 
 ![회원가입](https://user-images.githubusercontent.com/76704035/184582290-b1d7d37a-17e0-4d19-847e-8ee2f757d61e.gif)
 
-- 게시물 생성 
+### 게시물 생성 
 
 ![게시물 생성](https://user-images.githubusercontent.com/76704035/184582333-fb63f105-0fd7-4a85-9741-27c0237a7da5.gif)
 
-- 메인 페이지 
+### 메인 페이지 
 
 ![검색](https://user-images.githubusercontent.com/76704035/184582403-4dacf6a1-605c-4ab2-8d40-b737a5e446eb.gif)
 
-- 채팅 보내기 
+### 채팅 보내기 
 
 ![채팅보내기](https://user-images.githubusercontent.com/76704035/184582449-53ccc75f-c4cc-4418-8fad-4ac716828924.gif)
 
-- 마이페이지
+### 마이페이지
 
 ![내정보페이지](https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif)
 
