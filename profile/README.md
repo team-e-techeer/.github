@@ -54,7 +54,6 @@ Schoolvery
 <!-- <img src="https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif" width="240" height="500"/> -->
 <!-- ![내정보페이지](https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif) -->
 
-![카테고리](https://user-images.githubusercontent.com/76704035/184586578-acb4e055-85ab-4961-bd4f-2876174f4f46.gif)
 
 
 
