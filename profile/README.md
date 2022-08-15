@@ -26,8 +26,26 @@ Schoolvery
 #### b. Additional Features
 
 - 회원가입 및 로그인
-- 카테고리, 가게별 필터링
-- 유저 개인 페이지를 통한 개인정보 관리
+
+![회원가입](https://user-images.githubusercontent.com/76704035/184582290-b1d7d37a-17e0-4d19-847e-8ee2f757d61e.gif)
+
+- 게시물 생성 
+
+![게시물 생성](https://user-images.githubusercontent.com/76704035/184582333-fb63f105-0fd7-4a85-9741-27c0237a7da5.gif)
+
+- 메인 페이지 
+
+![검색](https://user-images.githubusercontent.com/76704035/184582403-4dacf6a1-605c-4ab2-8d40-b737a5e446eb.gif)
+
+- 채팅 보내기 
+
+![채팅보내기](https://user-images.githubusercontent.com/76704035/184582449-53ccc75f-c4cc-4418-8fad-4ac716828924.gif)
+
+- 마이페이지
+
+![내정보페이지](https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif)
+
+
 
 #### c. Demo
 
