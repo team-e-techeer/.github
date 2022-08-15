@@ -5,13 +5,20 @@
 <h1 align="middle">
 Schoolvery
 </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-v17.0.2-9cf?logo=react" alt="react" />
+  <img src="https://img.shields.io/badge/spring_boot-v2.5.2-green?logo=springboot"  alt="spring-boot" />
+  <img src="https://img.shields.io/badge/typescript-v4.3.5-blue?logo=typescript" alt="typescript"/>
+  <img src="https://img.shields.io/badge/mysql-v8.0.26-blue?logo=mysql" alt="mysql"/>
+</p>
 
-<br />
-
-- 기존의 비싼 배달비와 최소 주문 금액 문제를 해결하기 위해 만들어진 서비스로
-- 인접한 사람들과 배달 음식 비용을 공유하는 교내 배달비 공유 플랫폼입니다 
 
 
+<h5 align="middle">
+기존의 비싼 배달비와 최소 주문 금액 문제를 해결하기 위해 만들어진 서비스로 <br/><br/>
+인접한 사람들과 배달 음식 비용을 공유하는 교내 배달비 공유 플랫폼입니다 
+
+</h5>
 
 </br>
 
