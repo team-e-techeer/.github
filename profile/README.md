@@ -16,7 +16,10 @@ Schoolvery
 
 <h5 align="middle">
 기존의 비싼 배달비와 최소 주문 금액 문제를 해결하기 위해 만들어진 서비스로 <br/><br/>
-인접한 사람들과 배달 음식 비용을 공유하는 교내 배달비 공유 플랫폼입니다 
+인접한 사람들과 배달 음식 비용을 공유하는 교내 배달비 공유 플랫폼입니다 <br/><br/>
+
+You can Use 👉🏻 [click here !](https://www.schoolvery.com)
+
 
 </h5>
 
@@ -189,7 +192,7 @@ Git과 Github을 사용하여 코드를 관리하고, 팀원들과 협업하였�
 
 ### Frontend
 
-go ro frontend repo 👉🏻 [click here !](https://github.com/team-e-techeer/schoolvery-fe)
+go to frontend repo 👉🏻 [click here !](https://github.com/team-e-techeer/schoolvery-fe)
 
 > 프로젝트 실행
 
