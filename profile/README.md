@@ -63,7 +63,11 @@ You can Use 👉🏻 [click here !](https://www.schoolvery.com)
 
 ## System Architecture
 
-![Schoolvery_TechStack drawio (3)](https://user-images.githubusercontent.com/76832303/184498895-ae076c1d-bb8d-4029-afca-10fbfb14a4be.png)
+<p align="middle" >
+  <img src="https://user-images.githubusercontent.com/76832303/184498895-ae076c1d-bb8d-4029-afca-10fbfb14a4be.png" width=70% >
+</p>
+
+<!-- ![Schoolvery_TechStack drawio (3)](https://user-images.githubusercontent.com/76832303/184498895-ae076c1d-bb8d-4029-afca-10fbfb14a4be.png) -->
 
 
 <br/>
