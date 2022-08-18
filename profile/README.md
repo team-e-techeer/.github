@@ -33,20 +33,32 @@ You can Use 👉🏻 [click here !](https://www.schoolvery.com)
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/76704035/184582290-b1d7d37a-17e0-4d19-847e-8ee2f757d61e.gif" alt="회원가입 및 로그인" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582333-fb63f105-0fd7-4a85-9741-27c0237a7da5.gif" alt="게시글 생성" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582403-4dacf6a1-605c-4ab2-8d40-b737a5e446eb.gif" alt="메인 페이지" width=70%> |
 
+
 |                         카테고리 검색                    |                     채팅 보내기                        |                         마이페이지                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://user-images.githubusercontent.com/76704035/184586578-acb4e055-85ab-4961-bd4f-2876174f4f46.gif" alt="카테고리 검색" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582449-53ccc75f-c4cc-4418-8fad-4ac716828924.gif" alt="채팅 페이지" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif" alt="마이페이지" width=70%> |
+
+
 
 #### Capture ver.
 
-|                         카테고리 검색                    |                     채팅 보내기                        |                         마이페이지                        |
+
+|                         로그인                    |                     회원가입                        |                         게시글 생성                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/76704035/184586578-acb4e055-85ab-4961-bd4f-2876174f4f46.gif" alt="카테고리 검색" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582449-53ccc75f-c4cc-4418-8fad-4ac716828924.gif" alt="채팅 페이지" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/184582470-1e68cdd9-c19b-4734-bec5-5c1c6ce83a9b.gif" alt="마이페이지" width=70%> |
+| <img src="https://user-images.githubusercontent.com/76704035/185474948-37216f43-44ab-49bc-8b74-4272bcc3e7f7.jpg" alt="카테고리 검색" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/185475429-4fc2e851-6c47-4679-a1a3-553968b02f29.jpeg" alt="채팅 페이지" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/185472363-128257ec-0fd2-4e96-a286-a329d433c708.jpg" alt="마이페이지" width=70%> |
 
 
+|                         게시글 카테고리 선택                   |                     메인 페이지                        |                         게시글 상세 페이지                         |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/76704035/185472372-4144920a-f790-4eb9-93a8-b37fad4859fe.jpg" alt="카테고리 검색" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/185472382-372bd719-bc91-40b2-a165-498a10b100ed.jpg" alt="채팅 페이지" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/185472392-68f634c7-449a-4246-9969-eb8484a2d3fc.jpg" alt="마이페이지" width=70%> |
 
+
+|                         채팅방                  |                     마이페이지                        |                         내가 쓴 글                         |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/76704035/185472443-d665387c-8c0e-4f18-b760-562c606168b2.jpg" alt="카테고리 검색" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/185472459-4d7d9c54-fda2-4820-b597-5e8539af8668.jpg" alt="채팅 페이지" width=70%> | <img src="https://user-images.githubusercontent.com/76704035/185472471-8c6da82c-0b4b-4406-9e28-531571c41042.jpg" alt="마이페이지" width=70%> |
 
 <br/>
+
 
 ## System Architecture
 
